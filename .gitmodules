@@ -1,0 +1,15 @@
+[submodule "puppet/modules/vhost_rrhh"]
+	path = puppet/modules/vhost_rrhh
+	url = https://github.com/moisesbravo/vhost_rrhh.git
+[submodule "puppet/modules/php_54"]
+	path = puppet/modules/php_54
+	url = https://github.com/moisesbravo/php_54.git
+[submodule "puppet/modules/apache_php"]
+	path = puppet/modules/apache_php
+	url = https://github.com/moisesbravo/apache_php.git
+[submodule "puppet/modules/ssh_kcc"]
+	path = puppet/modules/ssh_kcc
+	url = https://github.com/moisesbravo/ssh_kcc.git
+[submodule "puppet/modules/system_update"]
+	path = puppet/modules/system_update
+	url = https://github.com/moisesbravo/system_update.git
